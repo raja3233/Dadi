@@ -1,6 +1,6 @@
 # Dadi
 
-Dadi is a old traditional game.
+Dadi is an old traditional game.
 
 # installation
 
@@ -9,5 +9,7 @@ To install the game
 2. Change the directory to Dadi
 3. Run setup file in dadi folder using `python dadi/setup.py py2app` which create game application 
 4. Launch the game **DADI** from the applications 
+
+![cat](/images/gameBoard.png)
 
 Enjoy playing!
